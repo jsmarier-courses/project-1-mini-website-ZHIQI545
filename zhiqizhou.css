@@ -102,23 +102,22 @@ body {
     text-decoration: none;
 }
 
-
-.h1 {
+h1 {
     text-shadow: 50px 50px;
     font-family: Arial, Helvetica, sans-serif;
   }
 
-.h2 {
+h2 {
     background-color: lightgoldenrodyellow;
     font-family: Georgia;
   }
 
-.ol {
+ol {
     list-style-type: upper-roman;
     border-style: solid;
     border-color: red;
   }
-.p {
+p {
     color:#3f3c3c;
     font-family: Arial, Helvetica, sans-serif;
   }
